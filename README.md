@@ -9,14 +9,15 @@ A highly skilled and experienced software engineer with over 10 years of hands-o
 ## 🛠️ Technical Skills
 
 ### Primary Skills
-- **Python** (7-10 years of expertise)
-- **Django**, **Django-RestFramework**, **Flask**
+- **Python** (9-10 years of expertise)
+- **Django**, **Django-RestFramework**, **Flask**, **Falcon**, **FastAPI**
 - **AWS (Amazon Web Services)**
-- **PostgreSQL**, **MySQL**
-- **Golang**
+- **PostgreSQL**, **MySQL**, **MOngoDB**, etc..
+- **REST API**
+- **Microservices**
 - **API Integration**
+- **AWS**
 - **Kafka**
-- **Node.js**
 
 ### Cloud
 - **AWS (Amazon Web Services)**
@@ -35,7 +36,7 @@ A highly skilled and experienced software engineer with over 10 years of hands-o
 
 ### Operating Systems
 - **Linux**
-- **Windows**
+- **MocOS**
 - **Ubuntu**
 
 ### Version Control
@@ -50,7 +51,6 @@ A highly skilled and experienced software engineer with over 10 years of hands-o
 ### Python Libraries
 - **NumPy**
 - **Pandas**
-- **OpenCV**
 - **Boto3**
 
 ## 💼 Job Role
@@ -92,6 +92,7 @@ A highly skilled and experienced software engineer with over 10 years of hands-o
 - **Django**
 - **Flask**
 - **Falcon**
+- **FastAPI**
 
 ### Platforms
 - **Ubuntu**
@@ -105,8 +106,7 @@ A highly skilled and experienced software engineer with over 10 years of hands-o
 - **Twilio**
 
 ### Python GUI
-- **PyQt4**
-- **Tk**
+- **PyQt**
 
 ### Front-End Scripting
 - **JavaScript**
